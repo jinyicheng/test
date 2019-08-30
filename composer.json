@@ -1,0 +1,14 @@
+{
+  "name": "jinyicheng/test",
+  "description": "Third party message push",
+  "authors": [
+    {
+      "name": "jinyicheng",
+      "email": "234067496@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  }
+}
